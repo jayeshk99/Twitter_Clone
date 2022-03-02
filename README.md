@@ -19,7 +19,6 @@ Twitter clone built using React, firebase.
 - Add Tweet
 - Like, Retweet, comment
 - View profile
-- Search users in explore section
 
 
 
