@@ -3,7 +3,7 @@
 
 ![Twitter](https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-2010-2012.png)
 
-Twitter clone built using React, firebase.
+A simple Twitter Clone application created using React and firebase to mimic the basic design and functionality of the official Twitter app
 
 
 ## Team-members
