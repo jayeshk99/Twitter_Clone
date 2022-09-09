@@ -12,6 +12,7 @@ import { getStorage } from "firebase/storage";
 //   appId: process.env.APP_ID,
 // };
 
+
 const firebaseConfig = {
   apiKey: "AIzaSyCxGhqk5X7ydO3jgsepklxsej8hcb-PlBk",
   authDomain: "twitter-clone-a7323.firebaseapp.com",
